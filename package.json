@@ -1,0 +1,22 @@
+{
+  "name": "ejercicios_de_repaso",
+  "version": "1.0.0",
+  "description": "Ejercicios de repaso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandodl07/ejercicios_de_repaso.git"
+  },
+  "keywords": [
+    "Examen"
+  ],
+  "author": "Fernadno de Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandodl07/ejercicios_de_repaso/issues"
+  },
+  "homepage": "https://github.com/fernandodl07/ejercicios_de_repaso#readme"
+}
