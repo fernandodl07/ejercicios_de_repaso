@@ -11,7 +11,7 @@ Muestra cuál es el número mayor entre los tres.
 
 let a = 10
 let b = 5
-let c = 2
+let c = 7
 
 if (a > b && a > c) {
     console.log(`El número mayor es ${a}`)
