@@ -10,6 +10,7 @@ const productos = [
 Crea un nuevo arreglo con los precios incluyendo 12% de IVA.
 
 Muestra el nuevo arreglo con los precios modificados.
+
 */
 const productos = [
     { nombre: 'Zapatos', precio: 100 },
